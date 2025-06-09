@@ -16,8 +16,8 @@ After each guess, the game gives you a hint:
 Once you guess the correct number, it congratulates you and shows how many attempts you took.
 
 📌 Code
-import random
 
+import random
 n = random.randint(1, 100)
 a = -1
 guesses = 1
